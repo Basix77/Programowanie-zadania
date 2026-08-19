@@ -1,4 +1,4 @@
-#PRogramowanie-zadania
+#Programowanie-zadania
 Zbiór ćwiczeń z programowania w C++, realizowanych w ramach nauki programowania i programowania obiektowego.
 
 ## Zakres
