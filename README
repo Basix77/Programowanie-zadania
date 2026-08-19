@@ -1,0 +1,19 @@
+#PRogramowanie-zadania
+Zbiór ćwiczeń z programowania w C++, realizowanych w ramach nauki programowania i programowania obiektowego.
+
+## Zakres
+
+- podstawy C++
+- funkcje i pętle
+- tablice
+- wskaźniki i referencje
+- dynamiczna pamięć
+- klasy i obiekty
+- konstruktory
+- dziedziczenie
+- polimorfizm
+- podstawy STL
+
+## Cel
+
+Repozytorium dokumentuje naukę C++ oraz stopniowe przechodzenie od podstaw programowania do programowania obiektowego.
